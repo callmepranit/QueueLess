@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess",
+  "description": "QueueLess: AI-Powered Smart Queue & Waiting-Time Management System prototype for college administrative services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
